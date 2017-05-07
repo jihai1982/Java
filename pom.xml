@@ -6,8 +6,6 @@
   <artifactId>example-java-maven</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>Jenkins_Maven_Java</name>
-
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <sonar.language>java</sonar.language>
